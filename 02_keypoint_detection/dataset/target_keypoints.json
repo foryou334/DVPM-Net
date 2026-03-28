@@ -1,0 +1,11 @@
+{
+    "keypoints":["keypoint_01", "keypoint_02",
+              "keypoint_03", "keypoint_04",
+              "keypoint_05", "keypoint_06",
+              "keypoint_07", "keypoint_08",
+              "keypoint_09", "keypoint_10",
+              "keypoint_11", "keypoint_12",
+              "keypoint_13", "keypoint_14"],
+  "flip_pairs": [[0,10], [1,11], [2,12], [3,13], [5,8]],
+  "kps_weights": [1.0, 1.0, 1.0, 1.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0, 1.0, 1.0]
+}
