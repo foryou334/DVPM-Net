@@ -18,6 +18,7 @@ Spatial Mapping: Implementing CTC-Net to mitigate error propagation during coord
 
 
 📂 Project Structure
+```
 DVPM-Net/
 ├── 01_object_identification/      # YOLOv5-based target ROI detection
 ├── 02_keypoint_detection/         # HRNet-based keypoint localization (DVPM-Net)
@@ -25,7 +26,7 @@ DVPM-Net/
 ├── 03_coordinate_calibration/      # CTC-Net for robot-camera mapping
 ├── data/                          # Sample dataset (Laboratory version)
 └── README.md
-
+```
 📊 Dataset Description
 Important Notice on Data Privacy:
 Due to strict confidentiality agreements regarding industrial aerospace manufacturing, the full industrial-scale dataset used in our paper cannot be made public.
