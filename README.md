@@ -32,14 +32,10 @@ Due to strict confidentiality agreements regarding industrial aerospace manufact
 
 However, we provide a Laboratory Dataset collected in a controlled environment. This dataset contains similar feature geometries and can be used to verify the algorithm's logic and performance.
 
-Laboratory Data: Available in the data/ SCU.
+Laboratory Data: Available in the data/SCU.
 
 Industrial Data: Restricted (Confidential).
 
-Gemini 说
-根据你提供的学术摘要，我为你撰写了一份专业的 README.md 模板。这份文档采用了国际主流科研项目的格式，重点突出了 DVPM-Net 和 CTC-Net 的技术创新，并妥善说明了数据集的保密性。
-
-你可以直接将以下内容复制到你的项目根目录下的 README.md 文件中：
 
 DVPM-Net: Deep Vision Pose Measurement Network for Robotic Drilling
 Official implementation of the paper: "Deep Learning-Driven Pose Measurement Framework for Robotic Drilling End-Effectors in Aerospace Manufacturing".
